@@ -74,12 +74,5 @@ Backend:
 ```
 
 ---
-
-If you want, I can:
-- Make this **even shorter**
-- Match **exact GitHub trending README style**
-- Write a **DSA-style README for another repo**
-- Optimize wording for **ATS / recruiters**
-
-Just tell me 👍
+⭐ If you like this project, don’t forget to give it a star on GitHub!
 
