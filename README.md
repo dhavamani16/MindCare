@@ -2,7 +2,7 @@
 
 NeuraCare is a full-stack medical web application built to manage patients, doctors, and administrators efficiently.
 The project is structured into Client, Admin, and Server modules to ensure scalability, clean separation of concerns, and real-world usability. 
-It is designed for **real-world healthcare workflows**, **full-stack practice**, and **portfolio demonstration**.
+It is designed for **real-world healthcare workflows** and **full-stack practice**.
 
 ---
 
