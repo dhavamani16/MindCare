@@ -27,14 +27,15 @@ It is designed for **real-world healthcare workflows** and **full-stack practice
 
 ---
 
-## Tech Stack Used
-
-- HTML
-- CSS
+Frontend:
+- HTML5
+- CSS3
 - JavaScript
-- Vite
-- Node.js
-- Vercel
+- React
+
+Backend:
+- Node.js (structure ready)
+- MangoDB
 
 ---
 
