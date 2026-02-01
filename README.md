@@ -1,76 +1,84 @@
-## MediCore
+## HealthSphere
 
-NeuraCare is a full-stack medical appointment management web application.  
-It is designed with a real-world project structure that separates the client side, admin dashboard, and backend server for better scalability and maintenance.
-
----
-
-## Project Description
-
-NeuraCare helps manage medical-related workflows by providing:
-- A client interface for patients
-- An admin dashboard for management
-- A backend server for configuration and future API handling
-
-The project follows a modular folder structure similar to production-grade applications.
+NeuraCare is a full-stack medical web application built to manage patients, doctors, and administrators efficiently.
+The project is structured into Client, Admin, and Server modules to ensure scalability, clean separation of concerns, and real-world usability. 
+It is designed for **real-world healthcare workflows**, **full-stack practice**, and **portfolio demonstration**.
 
 ---
 
-## Folder Structure
-```text
-NeuraCare-main
-│
-├── Medical
-│   ├── admin
-│   │   ├── public
-│   │   ├── src
-│   │   ├── index.html
-│   │   ├── package.json
-│   │   ├── vite.config.js
-│   │   └── README.md
-│   │
-│   ├── client
-│   │   ├── public
-│   │   ├── src
-│   │   ├── index.html
-│   │   ├── package.json
-│   │   ├── vite.config.js
-│   │   └── README.md
-│   │
-│   └── server
-│       └── config
-│
-├── vercel.json
-└── README.md
+## What this Repository Contains
 
+- Patient-facing **client application**
+- Administrative **admin dashboard**
+- Backend **server structure** for API and configuration
+- Clean separation of **frontend and backend layers**
+- Production-style project organization
 
 ---
 
 ## Features
 
-- Patient-facing client application
-- Admin dashboard for management
-- Modular frontend and backend structure
-- Vite-based fast development setup
-- ESLint configured for code quality
-- Deployed using Vercel
+- Patient appointment interface
+- Admin management dashboard
+- Scalable folder structure
+- Vite-based fast frontend setup
+- ESLint for code quality
+- Ready for backend & database integration
 
 ---
 
-## Tech Stack
+## Tech Stack Used
 
-### Frontend
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
-- React
-
-### Backend
+- Vite
 - Node.js
-
-### Deployment
 - Vercel
 
 ---
 
+## Folder Structure
+
+```text
+│
+├── Medical
+│ ├── admin
+│ │ ├── public
+│ │ ├── src
+│ │ ├── .gitignore
+│ │ ├── eslint.config.js
+│ │ ├── index.html
+│ │ ├── package.json
+│ │ ├── package-lock.json
+│ │ ├── vite.config.js
+│ │ └── README.md
+│ │
+│ ├── client
+│ │ ├── public
+│ │ ├── src
+│ │ ├── .gitignore
+│ │ ├── eslint.config.js
+│ │ ├── index.html
+│ │ ├── package.json
+│ │ ├── package-lock.json
+│ │ ├── vite.config.js
+│ │ └── README.md
+│ │
+│ └── server
+│ └── config
+│
+├── vercel.json
+└── README.md
+```
+
+---
+
+If you want, I can:
+- Make this **even shorter**
+- Match **exact GitHub trending README style**
+- Write a **DSA-style README for another repo**
+- Optimize wording for **ATS / recruiters**
+
+Just tell me 👍
 
